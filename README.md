@@ -17,16 +17,16 @@ Given data on Titanic passengers (such as age, sex, ticket class, etc.), the goa
 - CSV dataset
 
 # Files Included
-app.py – Streamlit web app
-Titanic-Dataset.csv – Dataset used for training
-model.h5 – Trained model (saved using Keras)
-screenshots – Output screenshots of the app 
+- app.py – Streamlit web app
+- Titanic-Dataset.csv – Dataset used for training
+- model.h5 – Trained model (saved using Keras)
+  screenshots – Output screenshots of the app 
 
 # Model Accuracy
 Achieved **81.01% accuracy** on test data 
 
 # Output
-Interface - Interface.png
-Not-survived - Not-survived.png
-Survived - Survived.png
+- Interface - Interface.png
+- Not-survived - Not-survived.png
+- Survived - Survived.png
 
