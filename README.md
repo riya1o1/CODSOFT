@@ -20,7 +20,7 @@ Given data on Titanic passengers (such as age, sex, ticket class, etc.), the goa
 - app.py – Streamlit web app
 - Titanic-Dataset.csv – Dataset used for training
 - model.h5 – Trained model (saved using Keras)
-  screenshots – Output screenshots of the app 
+- screenshots – Output screenshots of the app 
 
 # Model Accuracy
 Achieved **81.01% accuracy** on test data 
