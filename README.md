@@ -26,5 +26,7 @@ screenshots – Output screenshots of the app
 Achieved **81.01% accuracy** on test data 
 
 # Output
-
+Interface - Interface.png
+Not-survived - Not-survived.png
+Survived - Survived.png
 
