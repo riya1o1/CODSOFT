@@ -58,4 +58,4 @@ Given the metadata of a movie (genre, director, and actors), the goal is to pred
 - screenshots – Output screenshots of the app
 
 # Output
--output.png
+- Output.png
