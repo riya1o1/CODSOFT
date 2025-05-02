@@ -29,8 +29,14 @@ Achieved **81.01% accuracy** on test data
 
 # Output
 - Interface - Interface.png
+  ![Interface](https://github.com/user-attachments/assets/1b11203e-3b89-4271-a66e-fcf27fc4d16f)
+
 - Not-survived - Not-survived.png
+  ![Not-survived](https://github.com/user-attachments/assets/010eeb7b-99ce-4c9f-88b2-918ac8dbe2ff)
+
 - Survived - Survived.png
+  ![Survived](https://github.com/user-attachments/assets/15ad42c7-8ed4-4580-b521-69e0c0bb8f9f)
+
 
                                    . . . . . . .
   
@@ -59,6 +65,6 @@ Given the metadata of a movie (genre, director, and actors), the goal is to pred
 
 # Output
 - Output.png
-- ![Output](https://github.com/user-attachments/assets/5163d946-6412-4697-afe4-a2f63b5b493f)
+  ![Output](https://github.com/user-attachments/assets/5163d946-6412-4697-afe4-a2f63b5b493f)
 
 
