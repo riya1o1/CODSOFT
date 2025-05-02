@@ -19,7 +19,9 @@ Given data on Titanic passengers (such as age, sex, ticket class, etc.), the goa
 # Files Included
 - app.py – Streamlit web app
 - Titanic-Dataset.csv – Dataset used for training
+  (https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - model.h5 – Trained model (saved using Keras)
+  (https://colab.research.google.com/drive/1NtH64pSqJUoiI4qy6UH_V-_4JwLk9r3u)
 - screenshots – Output screenshots of the app 
 
 # Model Accuracy
