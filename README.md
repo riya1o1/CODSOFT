@@ -32,3 +32,30 @@ Achieved **81.01% accuracy** on test data
 - Not-survived - Not-survived.png
 - Survived - Survived.png
 
+                                   . . . . . . .
+  
+# Task 2 - Movie Rating Prediction
+This project aims to predict IMDb movie ratings using a machine learning model. The model is trained using features like genre, director, and actors, and it is deployed with an interactive Streamlit UI for real-time prediction.
+
+# Problem Statement
+Given the metadata of a movie (genre, director, and actors), the goal is to predict the IMDb rating of the movie using a trained neural network model.
+
+# Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- TensorFlow/Keras (for neural network)
+- Streamlit (for interactive UI)
+- CSV dataset
+
+
+# Files Included
+- app.py – Streamlit web app
+- Titanic-Dataset.csv – Dataset used for training
+  (https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
+- model.h5 – Trained model (saved using Keras)
+  (https://colab.research.google.com/drive/1SfCzeE1mfzyVKkhPl0EFlat5mIDFCd2s)
+- screenshots – Output screenshots of the app
+
+# Output
+-output.png
