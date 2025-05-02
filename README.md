@@ -59,3 +59,6 @@ Given the metadata of a movie (genre, director, and actors), the goal is to pred
 
 # Output
 - Output.png
+- ![Output](https://github.com/user-attachments/assets/5163d946-6412-4697-afe4-a2f63b5b493f)
+
+
