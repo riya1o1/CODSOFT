@@ -38,7 +38,7 @@ Achieved **81.01% accuracy** on test data
   ![Survived](https://github.com/user-attachments/assets/15ad42c7-8ed4-4580-b521-69e0c0bb8f9f)
 
 
-                                   . . . . . . .
+                                                            . . . . . . .
   
 # Task 2 - Movie Rating Prediction
 This project aims to predict IMDb movie ratings using a machine learning model. The model is trained using features like genre, director, and actors, and it is deployed with an interactive Streamlit UI for real-time prediction.
@@ -54,7 +54,6 @@ Given the metadata of a movie (genre, director, and actors), the goal is to pred
 - Streamlit (for interactive UI)
 - CSV dataset
 
-
 # Files Included
 - app.py – Streamlit web app
 - Titanic-Dataset.csv – Dataset used for training
@@ -66,5 +65,40 @@ Given the metadata of a movie (genre, director, and actors), the goal is to pred
 # Output
 - Output.png
   ![Output](https://github.com/user-attachments/assets/5163d946-6412-4697-afe4-a2f63b5b493f)
+
+
+
+                                                              . . . . . . .
+
+  # Task 3 - Iris Flower Species Prediction
+This project uses a Random Forest Classifier to predict the species of an Iris flower based on its features. The model is trained using the Iris dataset, and an interactive Streamlit UI is used to make real-time predictions.
+
+# Problem Statement
+Given the sepal length, sepal width, petal length, and petal width of an Iris flower, the goal is to predict the species of the flower using a trained machine learning model.
+
+# Technologies Used
+- Python
+- Pandas: For data manipulation and cleaning.
+- NumPy: For numerical operations.
+- Scikit-learn: For training the machine learning model.
+- Streamlit: For building the interactive user interface.
+- Joblib: For saving and loading the trained model and label encoder.
+
+# Files Included
+- app.py – Streamlit web app
+- IRIS.csv – Dataset used for training
+  (https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
+- random_forest_model.joblib – Trained model (saved using RandomForestClassifier model)
+  (https://colab.research.google.com/drive/1P7m6WGOxjVobLcMiO9pQMWJLJjWleDok#scrollTo=mHIjbKPv2hRz)
+- screenshots – Output screenshots of the app
+
+# Output
+- Iris_prediction.png
+  ![Iris_prediction](https://github.com/user-attachments/assets/10c77755-80c8-43a1-ab74-72c544f33b61)
+
+  
+
+
+  
 
 
