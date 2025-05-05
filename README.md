@@ -67,7 +67,6 @@ Given the metadata of a movie (genre, director, and actors), the goal is to pred
   ![Output](https://github.com/user-attachments/assets/5163d946-6412-4697-afe4-a2f63b5b493f)
 
 
-
                                                               . . . . . . .
 
 # Task 3 - Iris Flower Species Prediction
@@ -97,6 +96,36 @@ Given the sepal length, sepal width, petal length, and petal width of an Iris fl
   ![Iris_prediction](https://github.com/user-attachments/assets/10c77755-80c8-43a1-ab74-72c544f33b61)
 
   
+                                                              . . . . . . .
+
+# Task 3 - Sales Prediction Using Linear Regression
+
+This project uses a Linear Regression model to predict product sales based on advertising expenditures across various media channels. The model is trained using the Advertising dataset, and predictions are made using new inputs for TV, Radio, and Newspaper budgets.
+
+# Problem Statement
+Given the advertising spend on **TV**, **Radio**, and **Newspaper**, the goal is to predict the **sales** of a product using a trained Linear Regression model.
+
+# Technologies Used
+- Python
+- Pandas: For data manipulation and cleaning.
+- NumPy: For numerical operations.
+- Scikit-learn: For training the Linear Regression model.
+- Matplotlib & Seaborn: For data visualization and analysis.
+- Joblib: For saving and loading the trained model.
+
+# Files Included
+- sales_prediction.py – Main script for data loading, visualization, training, and evaluation
+- advertising.csv – Dataset used for training  
+  (https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input)
+- sales_model.pkl – Trained model (saved using scikit-learn’s LinearRegression)
+  (https://colab.research.google.com/drive/1a4hmekTOObPFxMh_pzxW-_WZH7VtUUX5#scrollTo=fi96jwKYzdqX)
+- predict_sales.py – Script to load the model and make predictions on new data
+- screenshots – Output visualizations and performance graphs
+
+# Output
+- Output.png
+  ![Output (2)](https://github.com/user-attachments/assets/552c84f6-1834-4af2-b3dc-637d1091103e)
+
 
 
   
