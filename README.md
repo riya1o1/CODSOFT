@@ -98,7 +98,7 @@ Given the sepal length, sepal width, petal length, and petal width of an Iris fl
   
                                                               . . . . . . .
 
-# Task 3 - Sales Prediction Using Linear Regression
+# Task 4 - Sales Prediction Using Linear Regression
 
 This project uses a Linear Regression model to predict product sales based on advertising expenditures across various media channels. The model is trained using the Advertising dataset, and predictions are made using new inputs for TV, Radio, and Newspaper budgets.
 
