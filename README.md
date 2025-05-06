@@ -99,7 +99,6 @@ Given the sepal length, sepal width, petal length, and petal width of an Iris fl
                                                               . . . . . . .
 
 # Task 4 - Sales Prediction Using Linear Regression
-
 This project uses a Linear Regression model to predict product sales based on advertising expenditures across various media channels. The model is trained using the Advertising dataset, and predictions are made using new inputs for TV, Radio, and Newspaper budgets.
 
 # Problem Statement
@@ -125,6 +124,39 @@ Given the advertising spend on **TV**, **Radio**, and **Newspaper**, the goal is
 # Output
 - Output.png
   ![Output (2)](https://github.com/user-attachments/assets/552c84f6-1834-4af2-b3dc-637d1091103e)
+
+
+                                                                . . . . . . .
+
+# Task 5 – Credit Card Fraud Detection (CODSOFT Internship Project)
+This project is developed as part of the CODSOFT Internship Program. It focuses on detecting fraudulent credit card transactions using machine learning techniques. The solution uses a classification model trained on anonymized transaction data and deployed via a user-friendly Streamlit interface.
+
+##  Problem Statement
+With the rising number of digital transactions, fraud detection has become a critical challenge for financial institutions. Given features extracted from historical credit card transactions (including PCA-transformed fields like V1 to V28, Time, and Amount), the objective is to build a machine learning model that can accurately classify whether a transaction is **fraudulent (1)** or **genuine (0)**.
+
+# Technologies & Tools Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib & Seaborn
+- Streamlit (for deployment)
+- imbalanced-learn (for SMOTE)
+- CSV dataset
+
+# Files Included
+- app.py – Streamlit web app
+- creditcard.csv – Dataset used for training
+  (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- logistic_model.pkl – Trained logistic regression model
+  (https://colab.research.google.com/drive/1a0RYaDVW3ICUyP6bt_9WZ-aPjx4vAaN4#scrollTo=E3ekbRvD63zR)
+- screenshots – UI and output screenshots
+
+# Model Accuracy
+Achieved **97.34% accuracy** on test data 
+
+# Output
+-Credit_output
+![Credit_output](https://github.com/user-attachments/assets/671e0060-b13b-4cad-81f1-9757b9d8d758)
 
 
 
