@@ -155,7 +155,7 @@ With the rising number of digital transactions, fraud detection has become a cri
 Achieved **97.34% accuracy** on test data 
 
 # Output
--Credit_output
+- Credit_output
 ![Credit_output](https://github.com/user-attachments/assets/671e0060-b13b-4cad-81f1-9757b9d8d758)
 
 
