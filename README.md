@@ -38,7 +38,7 @@ Achieved **81.01% accuracy** on test data
   ![Survived](https://github.com/user-attachments/assets/15ad42c7-8ed4-4580-b521-69e0c0bb8f9f)
 
 
-                                                            . . . . . . .
+---
   
 # Task 2 - Movie Rating Prediction
 This project aims to predict IMDb movie ratings using a machine learning model. The model is trained using features like genre, director, and actors, and it is deployed with an interactive Streamlit UI for real-time prediction.
@@ -67,7 +67,7 @@ Given the metadata of a movie (genre, director, and actors), the goal is to pred
   ![Output](https://github.com/user-attachments/assets/5163d946-6412-4697-afe4-a2f63b5b493f)
 
 
-                                                              . . . . . . .
+---
 
 # Task 3 - Iris Flower Species Prediction
 This project uses a Random Forest Classifier to predict the species of an Iris flower based on its features. The model is trained using the Iris dataset, and an interactive Streamlit UI is used to make real-time predictions.
@@ -96,7 +96,7 @@ Given the sepal length, sepal width, petal length, and petal width of an Iris fl
   ![Iris_prediction](https://github.com/user-attachments/assets/10c77755-80c8-43a1-ab74-72c544f33b61)
 
   
-                                                              . . . . . . .
+---
 
 # Task 4 - Sales Prediction Using Linear Regression
 This project uses a Linear Regression model to predict product sales based on advertising expenditures across various media channels. The model is trained using the Advertising dataset, and predictions are made using new inputs for TV, Radio, and Newspaper budgets.
@@ -126,7 +126,7 @@ Given the advertising spend on **TV**, **Radio**, and **Newspaper**, the goal is
   ![Output (2)](https://github.com/user-attachments/assets/552c84f6-1834-4af2-b3dc-637d1091103e)
 
 
-                                                                . . . . . . .
+---
 
 # Task 5 – Credit Card Fraud Detection (CODSOFT Internship Project)
 This project is developed as part of the CODSOFT Internship Program. It focuses on detecting fraudulent credit card transactions using machine learning techniques. The solution uses a classification model trained on anonymized transaction data and deployed via a user-friendly Streamlit interface.
