@@ -159,7 +159,13 @@ Achieved **97.34% accuracy** on test data
 ![Credit_output](https://github.com/user-attachments/assets/671e0060-b13b-4cad-81f1-9757b9d8d758)
 
 
+## 📫 Contact
 
+**Riya Singh**  
+📧 mailriya1o1@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/riya1o1)
+
+⭐ *Star this repo to support and stay updated!*
   
 
 
